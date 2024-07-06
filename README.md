@@ -1,6 +1,6 @@
 # Garip Hesap Makinesi
-Basit işlemler yapan WinForms uygulaması
-A WinForms application that implements basic tasks
+Basit işlemler yapan WinForms uygulaması <br>
+A WinForms application that implements basic tasks<br>
 This weird calculator </br>
 <ul>
 <li>checks if the given integer is a prime number or not</li>
