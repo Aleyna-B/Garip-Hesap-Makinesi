@@ -13,5 +13,5 @@ Bu garip hesap makinesi </br>
 <li>0 dan itibaren sayıya kadar olan tam sayıları yazdırır.</li>
 </ul>
 <br> 
-![garipHesapSs](https://github.com/Aleyna-B/Garip-Hesap-Makinesi/assets/122743833/a28be868-77e7-45a1-bbdd-ec08eb49d66d)
+![garipHesapSs](https://github.com/Aleyna-B/Garip-Hesap-Makinesi/assets/122743833/a28be868-77e7-45a1-bbdd-ec08eb49d66d.png)
 
